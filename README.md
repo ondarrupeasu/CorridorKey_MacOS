@@ -1,4 +1,4 @@
-# CorridorKey_MacOS_ARM
+# CorridorKey_MacOS
 An executable App with GUI for MacOS (Silicons) using CorridorKey
 CorridorKey GUI
 Neural Green Screen Keying for Apple Silicon
